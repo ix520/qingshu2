@@ -1,7 +1,7 @@
 {
   "title": "重要通知",
   "content": "尊敬的用户，为了提升服务质量，我们将在2025年4月20日进行系统维护，预计维护时间为00:00至06:00。在此期间，部分功能可能会暂时无法使用。给您带来的不便，敬请谅解。",
-  "is_popup": true,
-  "is_disable_close": true,
+  "is_popup": false,
+  "is_disable_close": false,
   "is_mandatory": false
 }
