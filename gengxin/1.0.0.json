@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "url": "https://y.music.163.com/m/mv?id=5365570",
   "force_update": false,
-  "push_update": true,
+  "push_update": false,
   "description": "修复了一些已知问题，提升了性能。",
   "time": "2025-03-07"
 }
